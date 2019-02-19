@@ -3,6 +3,6 @@ package es.prueba;
 public class Prueba {
 ******
 **
-	ooopppuuu
+	ooopppuuujjj
 	hhh
 }
